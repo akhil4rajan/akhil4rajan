@@ -17,7 +17,14 @@ I build production GenAI systems end to end: multi-agent RAG, vision-language mo
 | **RAG that holds up in production** | Chunking, hybrid retrieval, reranking, evaluation pipelines, guardrails |
 | **Agentic workflows** | Planner/worker multi-agent systems, tool use, MCP, LLM-as-judge evaluation |
 | **AI for regulated industries** | Risk assessment, threat modelling and security review so AI products pass enterprise sign-off |
-| **Idea → working product, fast** | Solution architecture, FastAPI + React, Docker, Azure Container Apps, CI/CD |
+| **Full-stack product development** | End-to-end web apps: FastAPI / Django / Flask backends, React / Next.js / TypeScript frontends, PostgreSQL, REST APIs, streaming UIs |
+| **Idea → working product, fast** | Solution architecture, rapid prototypes and MVPs, Docker, Azure Container Apps, CI/CD with GitHub Actions |
+| **Data science problems** | Framing messy business questions, analysis and modelling in pandas and scikit-learn, clear results stakeholders can act on |
+| **Machine learning** | Classification, recommendation systems and predictive models, from experiment to deployed service |
+| **NLP and text analytics** | Named entity recognition, text and intent classification, summarisation, question answering with Hugging Face transformers |
+| **Computer vision and OCR** | Document digitisation, OCR, form and layout extraction, VLM-based screen and image understanding |
+| **LLMOps and evaluation** | Prompt versioning, automated evals, A/B testing across prompts and models, tracing and cost tracking (Langfuse) |
+| **Enterprise automation** | Power Apps, Power Automate and Power BI dashboards, plus AI-driven test generation and automation |
 
 ## Featured work
 
