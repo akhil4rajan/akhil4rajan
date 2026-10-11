@@ -25,9 +25,9 @@ I build production GenAI systems end to end: multi-agent RAG, vision-language mo
 Upload PDF contracts, ask questions across one or several, and get answers grounded in the source. Each answer cites the contract, page and line numbers, and clicking a citation highlights the lines in the original PDF.
 `FastAPI` · `LangChain` · `Claude API` · `BM25 + dense retrieval with RRF` · `OCR for scanned PDFs` · `React + TypeScript` · `pytest`
 
-### 🧘 AI4Human Fitness *(new, in active development)*
-Building the AI that helps keep humans fit, mentally and physically. Started this month as a product I'm designing and building myself, from idea to working software. The repo is private for now; message me if you'd like a walkthrough.
-`Python`
+### 🧘 [AI4Human](https://github.com/akhil4rajan/ai4human-fitness) *(new, in active development)*
+A multi-agent wellness companion: nutrition, fitness, sleep and mental-wellbeing specialists coordinated by an orchestrator, with a **code-level safety layer** (crisis and medical messages bypass the model; calorie floors and output checks are enforced in code, not just prompts). Includes offline evals, Langfuse observability, CI with a browser smoke test, and bring-your-own-key privacy.
+`Claude Agent SDK` · `FastAPI` · `Next.js` · `SSE streaming` · `SQLite` · `Langfuse` · `Playwright` · `GitHub Actions`
 
 ### Production highlights (professional work)
 - **Contract-processing platform** at Allianz: 15,000+ contracts processed, used by 500–600 colleagues across 30+ departments, 94%+ extraction accuracy against a human-labelled test set.
