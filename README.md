@@ -2,10 +2,10 @@
 
 **Senior AI Solutions Engineer · Generative AI & Agentic Systems · Sydney, Australia 🇦🇺**
 
-I build production GenAI systems end to end: multi-agent RAG, vision-language models and LLM evaluation, shipped on Azure for real users. 8+ years across insurance, procurement, healthcare and travel. Technical lead of a 4-engineer AI team at Allianz.
+I build production GenAI systems end to end: multi-agent RAG, vision-language models and LLM evaluation, shipped on Azure for real users. 8+ years across insurance, procurement, healthcare and travel. 
 
 🟢 **Open to:** freelance and contract engagements, and full-time roles in Australia.
-🪪 Full work rights in Australia (subclass 485, valid to Jan 2028), no sponsorship required.
+🪪 Full work rights in Australia, no sponsorship required.
 
 ---
 
