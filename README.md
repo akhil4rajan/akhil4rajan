@@ -25,11 +25,19 @@ I build production GenAI systems end to end: multi-agent RAG, vision-language mo
 Upload PDF contracts, ask questions across one or several, and get answers grounded in the source. Each answer cites the contract, page and line numbers, and clicking a citation highlights the lines in the original PDF.
 `FastAPI` · `LangChain` · `Claude API` · `BM25 + dense retrieval with RRF` · `OCR for scanned PDFs` · `React + TypeScript` · `pytest`
 
+### 🧘 AI4Human Fitness *(new, in active development)*
+Building the AI that helps keep humans fit, mentally and physically. Started this month as a product I'm designing and building myself, from idea to working software. The repo is private for now; message me if you'd like a walkthrough.
+`Python`
+
 ### Production highlights (professional work)
 - **Contract-processing platform** at Allianz: 15,000+ contracts processed, used by 500–600 colleagues across 30+ departments, 94%+ extraction accuracy against a human-labelled test set.
 - **Hierarchical multi-agent RAG**: a planner agent splits questions into sub-queries, domain agents run them in parallel, and a single cited answer comes back.
 - **AI test generation**: computer vision plus vision-language models turn screen recordings into executable tests, run by a Playwright agent with LLM-as-judge scoring.
 - **Healthcare automation** at Aveta.ai: LLM + RAG medical coding, 92%+ document-extraction accuracy, 85%+ reduction in manual billing intervention.
+
+## What drives me
+
+I love building **solid AI software products**, not demos: software that is tested, evaluated, secure and still working months after launch. I also love **hackathons**. Fast, high-pressure building is where I do some of my best work, and it's where I've won: MachineHack at MLDS 2025, the All India Defence Innovation Hackathon (IIT Madras) and the AWS Community Hackathon. If you're running one in Australia, or want a teammate, get in touch.
 
 ## Tech stack
 
